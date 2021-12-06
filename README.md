@@ -1,6 +1,6 @@
 # Arch Blue theme
 
-This is my configuration with theme for Awesome WM based on the Arch blue (**#1793d0**). It was developed for use on Awesome 4.3+ on a 13" laptop (so font sizes may seem large for desktop /external monitor users).
+This is my configuration and theme for Awesome WM based on the Arch Blue (**#1793d0**) as the focus color. It was developed for use on Awesome 4.3+ on a 13" laptop (so font sizes may seem large for desktop /external monitor users).
 
 It is intentionally simple based on my personal style preferences but should also serve as a good base for further customization by individual users.
 
@@ -58,7 +58,7 @@ The theme and ```rc.lua``` uses the Noto Sans font family. Install ```noto-fonts
 
 ### Wallpaper
 
-The wallpaper is referred to the background.png file in the theme directory. I downloaded it from [here](https://getwallpapers.com/wallpaper/full/1/c/b/49249.jpg) and made some adjustments i Gimp (as it looked too washed out for me). As I am not able to verify the licence terms, please download it directly or use another wallpaper saved as ```themes/archblue/background.png```.
+The wallpaper is referred to the background.png file in the theme directory. I downloaded it from [here](https://getwallpapers.com/wallpaper/full/1/c/b/49249.jpg) and made some adjustments in Gimp (as it looked too washed out for me). As I am not able to verify the licence terms, please download it directly or use another wallpaper saved as ```themes/archblue/background.png```.
 
 ## Wider configuration options
 
