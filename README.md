@@ -1,6 +1,8 @@
 # Arch Blue theme
 
-This is my configuration with theme for Awesome WM based on the Arch blue (**#1793d0**). It was developed for use on Awesome 4.3+. It is intentionally simple based on my personal style preferences but should also serve as a good base for further customization by individual users.
+This is my configuration with theme for Awesome WM based on the Arch blue (**#1793d0**). It was developed for use on Awesome 4.3+ on a 13" laptop (so font sizes may seem large for desktop /external monitor users).
+
+It is intentionally simple based on my personal style preferences but should also serve as a good base for further customization by individual users.
 
 ## Screenshots
 
