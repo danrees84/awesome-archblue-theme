@@ -5,10 +5,10 @@ This is my configuration with theme for Awesome WM based on the Arch blue (**#17
 ## Screenshots
 
 Normal screenshot:
-[Screenshot 1](archblue-ss1.png)
+![Screenshot 1](archblue-ss1.png)
 
 With hotkeys popup menu:
-[Screenshot 2](archblue-ss2.png)
+![Screenshot 2](archblue-ss2.png)
 
 ## Installation
 
