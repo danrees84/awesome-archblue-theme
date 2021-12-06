@@ -68,4 +68,4 @@ My setup uses the [Flat-Remix-Blue-Dark](https://drasite.com/flat-remix) GTK the
 
 ### Firefox theme
 
-There is a Firefox theme which compliements the Flat-Remix-Dark theme available [here](https://addons.mozilla.org/en-US/firefox/addon/flat-remix-dark/).
+There is a Firefox theme which compliments the Flat-Remix-Dark theme available [here](https://addons.mozilla.org/en-US/firefox/addon/flat-remix-dark/). I haven't checked the colors are exactly the same as the theme as it seemed close enough for my use.
