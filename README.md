@@ -52,6 +52,10 @@ The autorun script loads the following on startup of Awesome.
 - **blueman-applet** - Bluetooth manager. Comes with ```blueman``` by default.
 - **light-locker** - display lock for use with [lightdm](https://wiki.archlinux.org/title/LightDM). Install ```light-locker```.
 
+## Fonts
+
+The theme and ```rc.lua``` uses the Noto Sans font family. Install ```noto-fonts``` on Arch.
+
 ## Wallpaper
 
 The wallpaper is referred to the background.png file in the theme directory. I downloaded it from [here](https://getwallpapers.com/wallpaper/full/1/c/b/49249.jpg) and made some adjustments i Gimp (as it looked too washed out for me). As I am not able to verify the licence terms, please download it directly or use another wallpaper saved as ```themes/archblue/background.png```.
