@@ -2,6 +2,14 @@
 
 This is my configuration with theme for Awesome WM based on the Arch blue (**#1793d0**). It was developed for use on Awesome 4.3+. It is intentionally simple based on my personal style preferences but should also serve as a good base for further customization by individual users.
 
+## Screenshots
+
+Normal screenshot:
+[Screenshot 1](archblue-ss1.png)
+
+With hotkeys popup menu:
+[Screenshot 2](archblue-ss2.png)
+
 ## Installation
 
 Clone the repo and copy to ```~/.config/awesome/```. Ensure you make a backup of any existing ```rc.lua``` first. Then ensure that you have the necessary dependencies (please see below).
