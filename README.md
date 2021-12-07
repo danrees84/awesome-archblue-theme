@@ -35,6 +35,7 @@ The theme assumes the following default applications:
 - **Editor** - [vim](https://www.vim.org/)
 - **Web browser** - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 - **Mail** - [Mutt](http://www.mutt.org/)
+- **File Manager** -[Thunar](https://docs.xfce.org/xfce/thunar/start)
 
 Otherwise, please edit the rc.lua if you have different preferences.
 
