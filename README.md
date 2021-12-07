@@ -47,7 +47,7 @@ Similarly the brightness controls are mapped to ```xbacklight```.
 ### Autorun applications
 
 The autorun script loads the following on startup of Awesome.
-- **picom** - the Picom compositor for X.org window managers (addinng transparency and other effects). Install ```picom```.
+- **picom** - the Picom compositor for X.org window managers (adding transparency and other effects). Install ```picom```.
 - **nm-applet** - Network Manager WIFI applet. Install ```network-manager-applet```
 - **blueman-applet** - Bluetooth manager. Comes with ```blueman``` by default.
 - **light-locker** - display lock for use with [lightdm](https://wiki.archlinux.org/title/LightDM). Install ```light-locker```.
