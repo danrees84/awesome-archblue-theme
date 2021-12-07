@@ -16,6 +16,8 @@ With hotkeys popup menu:
 
 Clone the repo (`git clone https://github.com/danrees84/awesome-archblue-theme`) and copy to `~/.config/awesome/`. Ensure you make a backup of any existing `rc.lua` first. Then ensure that you have the necessary dependencies (please see below).
 
+If you would like to use the [qt5ct](https://wiki.archlinux.org/title/Qt#Configuration_of_Qt5_apps_under_environments_other_than_KDE_Plasma) options to mirror the GTK color scheme, move this directory to `~/.config/qt5ct`.
+
 ## Dependencies
 
 Please check that you have the relevant dependencies installed first before trying to use the theme and `rc.lua`.
