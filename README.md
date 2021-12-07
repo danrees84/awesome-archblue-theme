@@ -65,7 +65,7 @@ The wallpaper is referred to the background.png file in the theme directory. I d
 
 ### GTK theme and icons
 
-My setup uses the [Flat-Remix-Blue-Dark](https://drasite.com/flat-remix) GTK theme. A package is available in the AUR as `flat-remix-gtk`. I use [qt5ct](https://wiki.archlinux.org/title/Qt#Configuration_of_Qt5_apps_under_environments_other_than_KDE_Plasma) to maintain consistency in QT applications, using the 'gtk2' option. I also use the `flat-remix` icon theme avaialble in the AUR.
+My setup uses the [Flat-Remix-Blue-Dark](https://drasite.com/flat-remix) GTK theme. A package is available in the AUR as `flat-remix-gtk`. I use [qt5ct](https://wiki.archlinux.org/title/Qt#Configuration_of_Qt5_apps_under_environments_other_than_KDE_Plasma) to maintain consistency in QT applications, using the 'gtk2' option. I also use the `flat-remix` icon theme available in the AUR.
 
 ### Firefox theme
 
