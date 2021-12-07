@@ -40,7 +40,7 @@ Otherwise, please edit the rc.lua if you have different preferences.
 
 ### Media and brightness control
 
-The configuration file maps key bindings to the play, next and previous keys identified by X.org and uses [playerctl](https://github.com/altdesktop/playerctl) to control my mpd server. Replace ```playerctl``` in ```rc.lua``` if you want to use an alternative application to control media playback.
+The configuration file maps key bindings to the play, next and previous keys identified by X.org and uses [playerctl](https://github.com/altdesktop/playerctl) to control my mpd server. Replace ```playerctl``` in ```rc.lua``` if you want to use an alternative application to control media playback. Volume is controlled with the volume widget.
 
 Similarly the brightness controls are mapped to ```xbacklight```.
 
