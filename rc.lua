@@ -75,6 +75,7 @@ terminal = "kitty"
 editor = os.getenv("EDITOR") or "vim"
 editor_cmd = terminal .. " -e " .. editor
 browser = "firefox"
+filemanager = "thunar"
 mail = terminal .. " -e mutt"
 
 -- Default modkey.
@@ -108,7 +109,7 @@ awful.layout.layouts = {
 myawesomemenu = {
 	{ "Hotkeys", function() return false, hotkeys_popup.show_help end },
 	{ "Manual", terminal .. " -e man awesome" },
-	{ "Edit config", string.format("%s -e %s %s", terminal, editor_cmd, awesome.conffile) },
+	{ "Edit config", string.format("%s %s", editor_cmd, awesome.conffile) },
 	{ "Restart", awesome.restart },
 	{ "Quit", function() awesome.quit() end }
 }
@@ -398,6 +399,8 @@ awful.key({ modkey, "Shift"   }, "f", function () awful.spawn (browser)  end,
 {description = "open firefox", group = "Awesome: Launcher"}),
 awful.key({ modkey, "Shift"   }, "m", function () awful.spawn (mail)  end,
 {description = "open mutt", group = "Awesome: Launcher"}),
+awful.key({ modkey, "Shift"   }, "t", function () awful.spawn (filemanager)  end,
+{description = "open file manager", group = "Awesome: Launcher"}),
 awful.key({ modkey, "Shift"   }, "n", function () awful.spawn (terminal .. " -e newsboat")  end,
 {description = "open newsboat", group = "Awesome: Launcher"})
 
