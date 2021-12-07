@@ -14,7 +14,7 @@ With hotkeys popup menu:
 
 ## Installation
 
-Clone the repo and copy to ```~/.config/awesome/```. Ensure you make a backup of any existing ```rc.lua``` first. Then ensure that you have the necessary dependencies (please see below).
+Clone the repo (```git clone https://github.com/danrees84/awesome-archblue-theme```) and copy to ```~/.config/awesome/```. Ensure you make a backup of any existing ```rc.lua``` first. Then ensure that you have the necessary dependencies (please see below).
 
 ## Dependencies
 
