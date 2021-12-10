@@ -248,7 +248,7 @@ awful.screen.connect_for_each_screen(function(s)
 	-- mykeyboardlayout,
 	wibox.widget.systray(),
 	volume_widget{
-		widget_type = 'arc', size = 24
+		widget_type = 'arc', thickness = 3, size = 24
 	},
 	batteryarc_widget({
 		arc_thickness = 3, size = 24, show_notification_mode = "on_click"
@@ -573,6 +573,10 @@ awful.rules.rules = {
 			"pop-up",       -- e.g. Google Chrome's (detached) Developer Tools.
 		}
 	}, properties = { floating = true }},
+
+	{ rule = { instance = "calibre-ebook-viewer" }, properties = { floating = true, x=10, y=10, width=800, height=1060 }},
+	{ rule = { class = "Vncviewer" }, properties = { tag = " 8 " }},
+
 
 	-- Add titlebars to normal clients and dialogs
 	{ rule_any = {type = { "normal", "dialog" }
